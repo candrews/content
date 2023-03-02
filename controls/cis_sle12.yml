@@ -615,7 +615,6 @@ controls:
     status: automated
     rules:
       - package_dhcp_removed
-      - package_dhcp_client_removed
       - service_dhcpd_disabled
 
   - id: 2.2.6
